@@ -2,10 +2,10 @@
     <div>
         <h2>Hoeveel budget wenst u te spenderen</h2>
         <router-link to="/Klantenbestand" tag="button">Tot 1000</router-link>
-        <router-link to="/" tag="button">Tot 5000</router-link>
-        <router-link to="/" tag="button">Meer dan 5000</router-link>
-        <router-link to="/" tag="button">Eenmalig 2000</router-link>
-        <router-link to="/" tag="button">Weet ik nog niet</router-link>
+        <router-link to="/Einde" tag="button">Tot 5000</router-link>
+        <router-link to="/Einde" tag="button">Meer dan 5000</router-link>
+        <router-link to="/Einde" tag="button">Eenmalig 2000</router-link>
+        <router-link to="/Einde" tag="button">Weet ik nog niet</router-link>
         <br>
         <br>
 
